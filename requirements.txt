@@ -1,0 +1,7 @@
+dvc
+opencv-python
+opencv-contrib-python
+parameterized
+Pillow
+streamlit
+ultralytics
